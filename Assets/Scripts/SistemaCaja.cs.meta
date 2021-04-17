@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1da03946638404246adb08a54202a64d
+timeCreated: 1542744184
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - servidorAusente: {fileID: 2100000, guid: 1eac8dd3b937a2f4d8057c4662cfb8da, type: 2}
+  - servidorActivo: {fileID: 2100000, guid: 104da38749dd81248994bf4b5f2806af, type: 2}
+  - servidorAtencion: {fileID: 2100000, guid: eae2dea7c88a70e40b104c20d204ef35, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
