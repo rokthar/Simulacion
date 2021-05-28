@@ -9,7 +9,7 @@ Este proyecto permite la visualización del comportamiennto de usuarios en los c
 La aplicación no requiere ningun tipo de despliegue para su funcionamiento, sin embargo requiere de una construcción a alguna plataforma que en nuestro caso para [PC](https://docs.unity3d.com/es/2018.4/Manual/PublishingBuilds.html)
 ## Construido con 🛠️
 _Herramientas utilizadas para la creación del proyecto_
-* [Unity](https://store.unity.com/download?ref=personal) (_v2019.4.8f1_) - El motor gráfico usado para la creación del juego.
+* [Unity](https://store.unity.com/download?ref=personal) (_v2017.4.8f1_) - El motor gráfico usado para la creación del juego.
 * ## Autores ✒️
 
 _Son mencionados los participantes del desarrollo._
